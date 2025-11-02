@@ -1,3 +1,8 @@
+## 1.0.0+1
+
+- Update publisher to budggy.com
+
+
 ## 1.0.0
 
 ### Initial Release
