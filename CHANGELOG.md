@@ -1,6 +1,11 @@
+## 1.0.0+2
+
+- Update documentation on the README file
+- Update the example application
+
 ## 1.0.0+1
 
-- Update publisher to budggy.com
+- Update publisher to `budggy.com`
 
 
 ## 1.0.0

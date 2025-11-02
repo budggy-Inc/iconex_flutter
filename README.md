@@ -25,7 +25,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  iconex_flutter: ^1.0.0
+  iconex_flutter: ^1.0.0+2
 ```
 
 Then run
@@ -86,20 +86,6 @@ Icon(Iconex.broken.home,
 ),
 ```
 
-### Line Two Tone Icons
-
-```dart
-// import the package
-import 'package:iconex_flutter/iconex_flutter.dart';
-
-// Use Iconex.twoToneLine for the Line Two Tone icon style
-Icon(Iconex.twoToneLine.home,
-  color: Colors.blue,
-  size: 24.0,
-  semanticLabel: 'Home',
-),
-```
-
 ### Filled Icons
 
 ```dart
@@ -108,34 +94,6 @@ import 'package:iconex_flutter/iconex_flutter.dart';
 
 // Use Iconex.filled for the Filled icon style
 Icon(Iconex.filled.home,
-  color: Colors.blue,
-  size: 24.0,
-  semanticLabel: 'Home',
-),
-```
-
-### Two Tone Icons
-
-```dart
-// import the package
-import 'package:iconex_flutter/iconex_flutter.dart';
-
-// Use Iconex.twoTone for the Two Tone icon style
-Icon(Iconex.twoTone.home,
-  color: Colors.blue,
-  size: 24.0,
-  semanticLabel: 'Home',
-),
-```
-
-### Glass Icons
-
-```dart
-// import the package
-import 'package:iconex_flutter/iconex_flutter.dart';
-
-// Use Iconex.glass for the Glass icon style
-Icon(Iconex.glass.home,
   color: Colors.blue,
   size: 24.0,
   semanticLabel: 'Home',
