@@ -4,6 +4,7 @@ version: 1.0.0
 homepage: https://github.com/budggy-inc/iconex_flutter
 repository: https://github.com/budggy-inc/iconex_flutter
 issue_tracker: https://github.com/budggy-inc/iconex_flutter/issues
+publisher: budggy.com
 
 environment:
   sdk: ">=3.9.2 <4.0.0"
