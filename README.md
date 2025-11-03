@@ -25,7 +25,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  iconex_flutter: ^1.0.0+2
+  iconex_flutter: ^1.0.1
 ```
 
 Then run
