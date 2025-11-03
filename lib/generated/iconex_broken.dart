@@ -1,7 +1,8 @@
-import 'package:flutter/widgets.dart';
+part of '../iconex_flutter.dart';
 
-class IconexBrokenData {
-  const IconexBrokenData._();
+/// DO NOT EDIT: Generated icon mapping for Iconex Broken.
+class _IconexBrokenData {
+  const _IconexBrokenData._();
 
   static const iconFontFamily = 'Iconex Broken';
   static const iconFontPackage = 'iconex_flutter';

@@ -5,3 +5,4 @@ linter:
     avoid_print: false
     prefer_single_quotes: true
     require_trailing_commas: preserve
+    public_member_api_docs: true

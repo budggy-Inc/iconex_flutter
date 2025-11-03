@@ -1,7 +1,8 @@
-import 'package:flutter/widgets.dart';
+part of '../iconex_flutter.dart';
 
-class IconexLightData {
-  const IconexLightData._();
+/// DO NOT EDIT: Generated icon mapping for Iconex Light.
+class _IconexLightData {
+  const _IconexLightData._();
 
   static const iconFontFamily = 'Iconex Light';
   static const iconFontPackage = 'iconex_flutter';

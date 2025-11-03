@@ -1,7 +1,8 @@
-import 'package:flutter/widgets.dart';
+part of '../iconex_flutter.dart';
 
-class IconexFilledData {
-  const IconexFilledData._();
+/// DO NOT EDIT: Generated icon mapping for Iconex Filled.
+class _IconexFilledData {
+  const _IconexFilledData._();
 
   static const iconFontFamily = 'Iconex Filled';
   static const iconFontPackage = 'iconex_flutter';
