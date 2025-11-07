@@ -1,3 +1,7 @@
+# 1.0.2
+
+- Remove unnecessary `flutter_svg` dependency
+
 ## 1.0.1
 
 - Update documentation on the README file
